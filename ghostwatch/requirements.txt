@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn>=0.29
+transformers>=4.45
+torch>=2.1
+pillow>=10.0
+requests>=2.31
+pydantic>=2.0
+numpy>=1.24
+geopy>=2.4
+unsloth
+trl>=0.9
+peft>=0.11
+datasets>=2.19

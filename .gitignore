@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+demo
+.pids
+logs
+# Environment
+.env
+.env.local
+*.pem
+
+ghostwatch/models/ship-detector-lora/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Node
+node_modules/
+SimSat/src/dashboard/frontend/dist/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
