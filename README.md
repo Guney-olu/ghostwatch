@@ -2,6 +2,10 @@
 
 **AI-powered dark vessel detection from satellite imagery with autonomous drone-dispatch recommendations.**
 
+<p align="center">
+  <img src="assest/demo.gif" alt="GhostWatch dashboard demo" width="100%">
+</p>
+
 ---
 
 ## Problem
